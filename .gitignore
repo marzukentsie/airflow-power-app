@@ -1,0 +1,3 @@
+# git ignore any file that end with csv
+
+*.csv
